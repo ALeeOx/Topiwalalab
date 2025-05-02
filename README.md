@@ -1,6 +1,8 @@
 # Topiwalalab
 Big data brain health research at the University of Oxford
 
+See our Wiki on how to get started using the UKBRAP for data analysis.
+
 # Using imaging and phenotypic data on the UK Biobank
 This repository contains open code written for those working on imaging and phenotypic data on the UK Biobank RAP (as opposed to working on the BMRC cluster directly).
 It will (soon) contain worked examples using image derived phenotype data on the UKBRAP.
